@@ -1,0 +1,11 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 44A3-AD04
+
+ Directory of F:\work\git\project
+
+05/22/2018  06:38 PM    <DIR>          .
+05/22/2018  06:38 PM    <DIR>          ..
+03/29/2018  05:40 PM               343 test1.txt
+05/22/2018  06:38 PM                 0 test2.txt
+               2 File(s)            343 bytes
+               2 Dir(s)  39,823,417,344 bytes free
